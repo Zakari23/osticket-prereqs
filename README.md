@@ -75,6 +75,27 @@ Step 5) Fill in the information located in the pink boxes, check the first green
 <img width="494" alt="7" src="https://github.com/Zakari23/osticket-prereqs/assets/158666482/5014a64f-b9c2-4b69-9b94-8d8cd95993ec">
 <p>
 <p></p>
-Step 6) Wait for your VM to set up. This process shouldn't take longer than 10 minutes 
+
+Step 6) Wait for your VM to set up. This process shouldn't take longer than 10 minutes
+
 </p>
+
 <img width="1108" alt="8" src="https://github.com/Zakari23/osticket-prereqs/assets/158666482/33c5ef31-826d-4cc1-9dce-523cf25dfc08">
+<p>
+ 
+Step 7) If you're using a MacBook you'll need to download Microsoft Remote Desktop from the app store to connect to your VM
+<p>
+<p>
+<img width="1143" alt="Screenshot 2024-02-19 at 4 20 46 PM" src="https://github.com/Zakari23/osticket-prereqs/assets/158666482/d345b45b-6fd4-4fbd-bc3a-1c8f1635dafb">
+<p>
+Step 8) Now head back to the VM you created and copy the IP address
+<p>
+ <img width="1312" alt="Screenshot 2024-02-19 at 5 39 57 PM" src="https://github.com/Zakari23/osticket-prereqs/assets/158666482/161ee6a3-9d12-4d81-b61a-ef208fb35d41">
+
+</p>
+Step 9) Now insert the IP address into the slot titled "PC Name" Continue by clicking add. Your username and password will be the same as the VM you set up
+<p>
+ <p></p>
+<img width="551" alt="Screenshot 2024-02-19 at 5 44 17 PM" src="https://github.com/Zakari23/osticket-prereqs/assets/158666482/f621397b-a8d5-49c0-b79f-2c8ce18b97ac">
+<img width="598" alt="Screenshot 2024-02-19 at 5 47 32 PM" src="https://github.com/Zakari23/osticket-prereqs/assets/158666482/578e0b45-f90c-438c-92ad-1063227f4389">
+
